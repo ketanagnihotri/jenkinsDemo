@@ -1,0 +1,6 @@
+D:\Project\KanobiProjects\jenkinsDemo\JenkinsDemoTest\bin\Debug\JenkinsDemoTest.dll
+D:\Project\KanobiProjects\jenkinsDemo\JenkinsDemoTest\bin\Debug\JenkinsDemoTest.pdb
+D:\Project\KanobiProjects\jenkinsDemo\JenkinsDemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\KanobiProjects\jenkinsDemo\JenkinsDemoTest\obj\Debug\JenkinsDemoTest.csprojResolveAssemblyReference.cache
+D:\Project\KanobiProjects\jenkinsDemo\JenkinsDemoTest\obj\Debug\JenkinsDemoTest.dll
+D:\Project\KanobiProjects\jenkinsDemo\JenkinsDemoTest\obj\Debug\JenkinsDemoTest.pdb

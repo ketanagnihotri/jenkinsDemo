@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>3aa19a90-8c4a-4e8a-bc13-1962830e4b48</ProjectGuid>
+    <ProjectGuid>{4C16F52F-EBC6-4584-9215-44BD370D2C8B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>JenkinsDemoTest</RootNamespace>
